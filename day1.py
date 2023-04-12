@@ -31,3 +31,17 @@ coffee = 4000
 juice = 4600
 tea = 3900
 print(coffee * 3 + juice * 2 + tea * 1) # 변수를 사용한 계산
+
+candy1= '딸기맛'
+print(candy1)
+candy2 = '레몬맛'
+print(candy2)
+candies = ['딸기맛, 레몬맛']
+print(candies) # 여러 코드를 하나의 변수에 저장(리스트)
+
+clovers = []
+clovers.append('클로버1')
+print(clovers)
+clovers.append('하트 2')
+print(clovers) # 리스트에 값을 추가하는 append 기능
+
