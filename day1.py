@@ -19,3 +19,15 @@ print('토끼' + '야 안녕!') # 문자열 합쳐짐
 print('데굴데굴' * 3) # 문자열이 반복됨
 print('빨' + '주' + '노' + '초' + '파' + '남' + '보')
 
+# 변수 설정
+rainbow = '빨주노초파남보'
+print(rainbow)
+count = 0
+print(count)
+count = 1
+print(count) # 변수에 저장된 값은 계속 변경
+
+coffee = 4000
+juice = 4600
+tea = 3900
+print(coffee * 3 + juice * 2 + tea * 1) # 변수를 사용한 계산
